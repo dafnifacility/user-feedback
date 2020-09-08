@@ -13,11 +13,11 @@ If you're using a project board to track and prioritize your work, you can conve
 
 1) Click  Issues.
 
-![alt text](images/issue-tab.png)
+![alt text](images/issue-tab.PNG)
 
 2) Click New issue.
 
-![alt text](images/new-issue.png)
+![alt text](images/new-issue.PNG)
 
 3) If there are multiple issue types, click Get started next to the type of issue you'd like to open.
 
@@ -27,6 +27,6 @@ If you're using a project board to track and prioritize your work, you can conve
 
 6) Type a title and description for your issue.
 
-![alt text](images/add-issue.png)
+![alt text](images/add-issue.PNG)
 
 7) When you're finished, click Submit new issue.
