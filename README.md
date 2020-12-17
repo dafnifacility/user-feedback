@@ -1,32 +1,20 @@
 # DAFNI User Feedback
-A place for gathering user feedback and providing support.
+A place for gathering user feedback and providing support to users of the [DAFNI facility][dafni-website]. Anyone can report bugs, feature requests or give feedback about DAFNI using this repository.
 
-Issues can be used to keep track of bugs, enhancements, or other requests.
+* Click [Issues](https://github.com/dafnifacility/user-feedback/issues) to view existing issues
+* Click [Add Issue](https://github.com/dafnifacility/user-feedback/issues/new) to create a new one
+* You can also Search this repository using the search bar to see if your issue has been reported already.
 
-Any GitHub user can create an issue in a public repository where issues have not been disabled.
+A member of the [DAFNI Team](https://dafni.ac.uk/about-2/delivery-and-development/) will respond to your issue and should create a related ticket on our internal work-tracking system (these are not visible to the public but will be given a number starting `CORE-` which may be used within the team to refer to issues.
 
-You can open a new issue based on code from an existing pull request. For more information, see "Opening an issue from code."
+## Engaging with DAFNI
 
-You can open a new issue directly from a comment in an issue or a pull request review. For more information, see "Opening an issue from a comment."
+If you're not currently a DAFNI and would like to become one, please contact us via [email][support-mail].
 
-If you're using a project board to track and prioritize your work, you can convert project board notes to issues. For more information, see "About project boards" and "Adding notes to a project board."
+## Direct Support
 
-1) Click  Issues.
+If you are a DAFNI user and want to chat with us about an issue you're having (rather than filing a public issue here), then reach out to us via [email][support-mail] and we can add you to the [DAFNI Facility Users Slack Workspace][dafni-facility-slack].
 
-![alt text](images/issue-tab.PNG)
-
-2) Click New issue.
-
-![alt text](images/new-issue.PNG)
-
-3) If there are multiple issue types, click Get started next to the type of issue you'd like to open.
-
-4) Select the type of issue you want to create
-
-5) Optionally, click Open a blank issue. if the type of issue you'd like to open isn't included in the available options.
-
-6) Type a title and description for your issue.
-
-![alt text](images/add-issue.PNG)
-
-7) When you're finished, click Submit new issue.
+[support-mail]: mailto:support@dafni.ac.uk
+[dafni-website]: https://dafni.ac.uk
+[dafni-facility-slack]: https://dafniworkspace.slack.com
